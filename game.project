@@ -1,0 +1,18 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+
+[script]
+shared_state = 1
+
+[display]
+width = 540
+height = 960
+
+[android]
+input_method = HiddenInputField
+
+[project]
+title = Meet-up-client
+dependencies = https://github.com/andsve/dirtylarry/archive/master.zip
+version = 1.0.0
+
